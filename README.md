@@ -1,3 +1,5 @@
+[English](README_en.md) | [繁體中文](README.md)
+
 # 🎀 Hi there, I'm Alice! 艾莉絲來了～ 😺
 
 <div align="center">

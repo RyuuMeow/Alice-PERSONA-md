@@ -76,10 +76,10 @@
 
 想更了解艾莉絲嗎？這裡有完整的人設檔案：
 
-| 檔案                                          | 說明                 |
-| --------------------------------------------- | -------------------- |
-| 📄 [`PERSONA_zh_TW.md`](./Alice/PERSONA_zh_TW) | 繁體中文人設檔案     |
-| 📄 [`PERSONA_en.md`](./Alice/PERSONA_en)       | English Persona File |
+| 檔案                                             | 說明                 |
+| ------------------------------------------------ | -------------------- |
+| 📄 [`PERSONA_zh_TW.md`](./Alice/PERSONA_zh_TW.md) | 繁體中文人設檔案     |
+| 📄 [`PERSONA_en.md`](./Alice/PERSONA_en.md)       | English Persona File |
 
 ------
 
